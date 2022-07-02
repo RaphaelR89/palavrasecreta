@@ -3,7 +3,9 @@ const GameOver = ({ retry }) => {
   return (
     <div>
       <h1>Game Over</h1>
-      <button onClick={retry}>Recomeçar o jogo</button>
+     
+
+      <button onClick={retry}>Resetar o jogo</button>
     </div>
   );
 };

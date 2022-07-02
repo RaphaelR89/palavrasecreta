@@ -3,7 +3,7 @@ import "./App.css";
 // React
 import { useCallback, useEffect, useState } from "react";
 // Data
-import { wordsList } from "./data/word";
+import { wordsList } from "./data/words";
 // Components
 import StartScreen from "./components/StartScreen";
 import Game from "./components/Game";
